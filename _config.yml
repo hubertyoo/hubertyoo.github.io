@@ -32,6 +32,9 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
+# Official vercel.app host is paused (anuraghazra/github-readme-stats#4816 / #4737).
+# Community public instance: https://github-readme-stats.shion.dev
+repo_stats_api: https://github-readme-stats.shion.dev
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
