@@ -35,6 +35,7 @@ nav_order: 5
 - AAAI Conference on Artificial Intelligence (AAAI) 2026
 - The Web Conference (WWW) 2025
 - ICLR Workshop on Secure and Trustworthy Large Language Models 2024
+- ACM Computing Surveys (CSUR) 2026
 - IEEE Transactions on Information Forensics and Security (TIFS) 2025
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
 - Journal of Orthopaedic Surgery 2025
