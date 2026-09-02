@@ -18,9 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a last-year computer science Ph.D. candidate at Northwestern University, working with <a href="http://xinyuxing.org/" target="_blank">Prof. Xinyu</a>. 
-My research interests lie in Large Language Models and cybersecurity. I hold B.S. degree from Shanghai Jiao Tong University (2021).
+I am a Tenure-Track Assistant Professor in the Department of Computer Engineering at <a href="https://nyuad.nyu.edu/" target="_blank">New York University Abu Dhabi (NYUAD)</a>, where I lead the <a href="https://secure-reasoning-lab.github.io/" target="_blank">Secure Reasoning Lab</a> as Principal Investigator. My research interests lie in Large Language Models and cybersecurity. I received my Ph.D. in Computer Science from Northwestern University, working with <a href="http://xinyuxing.org/" target="_blank">Prof. Xinyu</a>, and hold a B.S. from Shanghai Jiao Tong University (2021).
 
-I will be joining the Department of Computer Engineering at <a href="https://nyuad.nyu.edu/" target="_blank">New York University Abu Dhabi (NYUAD)</a> as a Tenure-Track Assistant Professor (TTAP), where I lead the <a href="https://secure-reasoning-lab.github.io/" target="_blank">Secure Reasoning Lab</a>. I also co-founded the <a href="https://nsoc.engineering.nyu.edu/" target="_blank">NYU Software Supply Chain Security Operations Center (NSOC)</a> at NYU Tandon's Center for Cybersecurity. **I am actively looking for self-motivated Ph.D. students and postdocs to work with me** — if you are passionate about Large Language Models and cybersecurity, feel free to reach out!
+I also co-founded the <a href="https://nsoc.engineering.nyu.edu/" target="_blank">NYU Software Supply Chain Security Operations Center (NSOC)</a> at NYU Tandon's Center for Cybersecurity. **I am actively looking for self-motivated Ph.D. students and postdocs to work with me** — if you are passionate about Large Language Models and cybersecurity, feel free to reach out!
 
 If you have any research issue, feel free to contact me! Enjoy research and life :)
