@@ -36,6 +36,7 @@ nav_order: 5
 - The Web Conference (WWW) 2025
 - ICLR Workshop on Secure and Trustworthy Large Language Models 2024
 - ACM Computing Surveys (CSUR) 2026
+- IEEE Transactions on Dependable and Secure Computing (TDSC) 2026
 - IEEE Transactions on Information Forensics and Security (TIFS) 2025
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
 - Journal of Orthopaedic Surgery 2025
