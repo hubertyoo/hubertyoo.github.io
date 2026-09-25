@@ -28,7 +28,7 @@ nav_order: 5
 ## Reviewer
 
 - International Conference on Learning Representations (ICLR) 2025 **(Notable Reviewer)**, 2026
-- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026, 2027
 - Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025
 - International Conference on Machine Learning (ICML) 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, 2026
