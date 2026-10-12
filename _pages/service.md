@@ -13,6 +13,7 @@ nav_order: 5
 - USENIX Security Symposium ('26 Cycle 2)
 - Conference on Computer and Communications Security (CCS) 2026 (Track A)
 - Conference on Computer and Communications Security (CCS) 2026 (Track B)
+- [LLM4Code@ICSE 2027](https://llm4code.github.io/)
 - LLM4Code@ICSE 2026
 
 ## Area Chair
